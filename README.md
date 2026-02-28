@@ -43,14 +43,9 @@ A passionate Engineer-Programmer & Designer 💻🎨, focused on creating intuit
 ---
 
 ## Projects
-![EcoFriend](https://img.shields.io/badge/🌱-EcoFriend-4CAF50?style=flat&logo=github&logoColor=white)
+![EcoFriend](https://img.shields.io/badge/🌱-EcoFriend-4CAF50?style=flat)
 
 ---
 
-📫 Reach me via: 
-
-<div align="left">
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/gubarvlad)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladgubar)  
-[![Website](https://img.shields.io/badge/Website-vladgubar.website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://vladgubar.website)
-</div>
+📫 Reach me via:  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/gubarvlad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladgubar) [![Website](https://img.shields.io/badge/Website-vladgubar.website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://vladgubar.website)
