@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vlad
 
-<div align="center">
+<div align="left">
 
 <img src="https://camo.githubusercontent.com/edb1619e86b120c31ffbf6657ad89dc2d24c8ecc5984df5e1d1509d2ec48f9f1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f54686f6d61732d47656f7267652d542f54686f6d61732d47656f7267652d543f7374796c653d666c6174" alt="Banner" height="80" style="vertical-align: middle;"/>
 
