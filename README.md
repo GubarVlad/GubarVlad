@@ -39,15 +39,15 @@ A passionate Engineer-Programmer & Designer 💻🎨, focused on creating intuit
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Website](https://img.shields.io/badge/Website-vladgubar.website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)
 
 ---
 
 ## Projects
-Here are a few of my notable projects:  
-![Project 1](https://via.placeholder.com/300x150?text=Project+1)  
-![Project 2](https://via.placeholder.com/300x150?text=Project+2)
+![EcoFriend](https://img.shields.io/badge/🌱-EcoFriend-4CAF50?style=flat&logo=github&logoColor=white)
 
 ---
 
-📫 Reach me via [GitHub](https://github.com/gubarvlad) or [LinkedIn](https://www.linkedin.com/in/vladgubar)
+📫 Reach me via:  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/gubarvlad)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladgubar)  
+[![Website](https://img.shields.io/badge/Website-vladgubar.website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)](https://vladgubar.website)
