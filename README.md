@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Vlad
 
-![Header GIF](link_to_your_top_gif_or_screenshot)
+![Banner](https://camo.githubusercontent.com/edb1619e86b120c31ffbf6657ad89dc2d24c8ecc5984df5e1d1509d2ec48f9f1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f54686f6d61732d47656f7267652d542f54686f6d61732d47656f7267652d543f7374796c653d666c6174)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/gubarvlad)
 
 A passionate Engineer-Programmer & Designer 💻🎨, focused on creating intuitive web interfaces and building clean, efficient code. I love combining UX design principles with Python development to make projects both functional and beautiful.
 
