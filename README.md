@@ -30,4 +30,4 @@ Here are a few of my notable projects:
 
 ---
 
-📫 Reach me via [GitHub](https://github.com/yourusername) or [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📫 Reach me via [GitHub](https://github.com/gubarvlad) or [LinkedIn](https://www.linkedin.com/in/vladgubar)
