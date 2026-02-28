@@ -34,16 +34,20 @@ A passionate Engineer-Programmer & Designer 💻🎨, focused on creating intuit
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FF7A00?style=flat&logo=miro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Website](https://img.shields.io/badge/Website-vladgubar.website-4CAF50?style=flat&logo=internet-explorer&logoColor=white)
 
 ---
 
 ## Projects
 Here are a few of my notable projects:  
-![EcoFriend Demo](link_to_your_project_gif_or_screenshot)  
-![Another Project](link_to_another_gif_or_screenshot)
+![Project 1](https://via.placeholder.com/300x150?text=Project+1)  
+![Project 2](https://via.placeholder.com/300x150?text=Project+2)
 
 ---
-
-🌐 Visit my website: [![Vlad's Website](https://img.shields.io/badge/Website-vladgubar.website-4CAF50?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://vladgubar.website)
 
 📫 Reach me via [GitHub](https://github.com/gubarvlad) or [LinkedIn](https://www.linkedin.com/in/vladgubar)
