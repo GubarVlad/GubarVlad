@@ -44,6 +44,7 @@ A passionate Engineer-Programmer & Designer 💻🎨, focused on creating intuit
 
 ## Projects
 ![EcoFriend](https://img.shields.io/badge/🌱-EcoFriend-4CAF50?style=flat)
+![Terminal-Clock](https://img.shields.io/badge/⏰-Terminal-Clock-4CAF50?style=flat)
 
 ---
 
